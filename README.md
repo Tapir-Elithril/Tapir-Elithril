@@ -1,3 +1,4 @@
+# Tapir-Elithril
 ## Hi! It's Tapir there 👋
 
 <!--
@@ -18,9 +19,9 @@ Here are some ideas to get you started:
 - Chinese / 20 y.o. college girl
 - ENFP
 - birth at 2005.5.27
-- 💕 looking for gentle, considerate, secure, and affectionate boy & girl
 - 🌱 socializing and cat lover
 - ✨ social anxiety overcoming...
+- 💕 looking for gentle, considerate, secure, and affectionate boy & girl
 - 🔭 wish to be the kindest girl in the world
 
 ## Programming Languages
