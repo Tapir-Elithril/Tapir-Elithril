@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 - 💕 looking for gentle, considerate, secure, and affectionate boy & girl
 - 🔭 wish to be the kindest girl in the world
 
+## Education
+- year 3 in ZheJiang univ.,Turing class, AI major
+
 ## Programming Languages
 
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
