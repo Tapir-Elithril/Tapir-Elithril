@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Chinese / 20 y.o. college girl
+- Chinese / 20 y.o. college girl 🏳️‍⚧️
 - ENFP
 - birth at 2005.5.27
 - 🌱 socializing and cat lover
